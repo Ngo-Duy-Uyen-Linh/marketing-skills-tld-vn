@@ -1,6 +1,6 @@
 # Marketing-skills-tld-vn: bộ kỹ năng marketing nội dung tiếng Việt
 
-Bộ kỹ năng chung cho mọi tổ chức (bản 0.3.0). Dùng được trong Claude Code và nạp được vào hệ thống quản trị Thế Là Được như một gói kỹ năng của nhân sự AI.
+Bộ kỹ năng chung cho mọi tổ chức (bản 0.4.0). Dùng được trong Claude Code và nạp được vào hệ thống quản trị Thế Là Được như một gói kỹ năng của nhân sự AI.
 
 ## Vòng làm nội dung
 ```
@@ -9,7 +9,7 @@ nghiên cứu xu hướng → mổ xẻ bài mẫu → lập kế hoạch → vi
 đọc số liệu, rút bài học ← thử nhiều phiên bản ← đăng (người duyệt) ← kịch bản video / bài đăng / cắt video dài
 ```
 
-## Mười tám kỹ năng
+## Mười chín kỹ năng
 | Kỹ năng | Việc |
 |---|---|
 | `ke-hoach-chien-dich` | Kế hoạch cả một đợt: mục tiêu đo được, thông điệp, kênh, lịch tính ngược từ mốc, chỉ số, ngân sách, rủi ro |
@@ -29,7 +29,8 @@ nghiên cứu xu hướng → mổ xẻ bài mẫu → lập kế hoạch → vi
 | `viet-anh-trich-dan` | Chọn câu đã duyệt và ảnh nền chưa dùng, đặt chữ lên mẫu, viết chú thích |
 | `kich-ban-livestream` | Kịch bản theo khối thời gian, phân vai, việc của người trực bình luận |
 | `tra-loi-binh-luan-cong-khai` | Phân loại bình luận, trả lời ngắn công khai, mời nhắn riêng, chuyển người |
-| `tieu-de-va-anh-bia` | Ba cặp tiêu đề và ảnh bìa, chấm như một cặp |
+| `tieu-de-va-anh-bia` | Viết mười, giữ ba cặp tiêu đề và ảnh bìa; chấm như một cặp; học ảnh bìa từ bài vượt trội |
+| `bo-giong-van-may` | Bỏ dấu vết văn do máy viết trong tiếng Việt, giữ nguyên sự thật |
 
 ## Cấu trúc
 ```

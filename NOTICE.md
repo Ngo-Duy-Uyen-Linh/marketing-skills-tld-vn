@@ -17,6 +17,15 @@ Các kỹ năng học **cách làm** từ những kho mã nguồn mở dưới �
 
 **Đã kiểm mã chưa:** chưa kiểm mã theo quy trình kiểm repo của dự án. Em chỉ đọc README, các tệp SKILL.md và đầu một vài tệp mã (chấm câu mở đầu, xếp bài vượt trội, đọc tỷ lệ còn xem) để học ý; không cài, không chạy gì. Gói này không chứa tệp, mã hay câu mẫu nào chép từ các kho trên, nên không mang mã của họ vào hệ thống. Không lấy các kỹ năng `content-creation`, `seo-audit`, `email-sequence` và tệp kết nối `.mcp.json` của bộ Anthropic.
 
+Học thêm ở bản 0.4.0 (cũng chỉ đọc README và SKILL.md, chưa kiểm mã, không chép):
+| Kho tham khảo | Giấy phép | Học điều gì | Dùng ở kỹ năng |
+|---|---|---|---|
+| github.com/blader/humanizer | MIT | Các nhóm dấu vết văn do máy viết và cách viết lại giữ nguyên sự thật; danh sách dấu vết tiếng Việt là của bộ này | `bo-giong-van-may` |
+| github.com/Jakeschincariol/youtube-agent-skill (`yt-comment`, `yt-package`) | MIT | Phân loại và đếm bình luận trước khi viết, trả lời ngắn, nhận đính chính, chọn một bình luận để ghim; giới hạn ký tự tiêu đề, chữ ảnh bìa tối đa ba từ, viết mười giữ vài | `tra-loi-binh-luan-cong-khai`, `tieu-de-va-anh-bia` |
+| github.com/TubeLabHQ/youtube-research-skills (`comment-mining`, `thumbnail-concepts`) | MIT | Trọng số bình luận theo lượt thích, cụm từ khách lặp lại; học ảnh bìa từ bài vượt trội theo hai hướng | `tra-loi-binh-luan-cong-khai`, `tieu-de-va-anh-bia` |
+| github.com/1160208849wfl/changkong-live | MIT | Ba hướng thuyết phục khác nhau, câu cứu khi vắng tương tác, học từ số liệu sau buổi | `kich-ban-livestream` |
+| github.com/sophie-nguyenthuthuy/livestream-commerce-vn | Không ghi giấy phép (chỉ học ý) | Đo livestream theo từng phút, kịch bản theo giọng vùng miền | `kich-ban-livestream` |
+
 Phép so hai tỷ lệ ở `thu-nhieu-phien-ban` là phương pháp thống kê phổ biến, dùng cùng ngưỡng với chiến dịch chăm sóc khách hàng của hệ thống Thế Là Được.
 
 ## Khác với các kho tham khảo

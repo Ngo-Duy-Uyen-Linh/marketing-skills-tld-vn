@@ -44,7 +44,7 @@ Không có công cụ lấy số liệu thì nhờ người dùng dán số li�
 
 ## 9. Cách viết
 - Tiếng Việt đầy đủ, không viết tắt. Câu ngắn, rõ, không sáo rỗng ("đỉnh cao", "thay đổi cuộc đời", "siêu phẩm") trừ khi giọng của tổ chức dùng.
-- Giọng văn, cách xưng hô, từ cấm theo tài liệu giọng văn của tổ chức.
+- Giọng văn, cách xưng hô, từ cấm theo tài liệu giọng văn của tổ chức. Viết như người thật nói: nói thẳng ý, không dàn dựng, không từ sáo của máy (`bo-giong-van-may`).
 - Ghi chú cho người duyệt tách riêng khỏi nội dung sẽ đăng.
 - Kết thúc mỗi lần làm bằng một câu hỏi cho người duyệt: **dùng bản này hay sửa chỗ nào?**
 - Việc trái quy tắc này thì nói rõ **"em không thể làm việc này"** kèm một câu lý do, rồi đề xuất cách làm đúng. Không làm một nửa, không im lặng bỏ qua.

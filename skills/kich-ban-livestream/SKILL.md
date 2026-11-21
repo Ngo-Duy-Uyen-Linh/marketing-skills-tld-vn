@@ -1,6 +1,6 @@
 ---
 name: kich-ban-livestream
-description: Viết kịch bản livestream theo khối thời gian - thông báo trước giờ, mở đầu giữ người, các khối nội dung có câu chốt và câu hỏi tương tác, nhắc lại cho người mới vào, lời mời, phân vai người dẫn, diễn giả, người trực bình luận, câu hỏi dự kiến. Dùng khi người dùng nói "kịch bản livestream", "lên kịch bản phát trực tiếp", "tối nay live nói gì", "chuẩn bị buổi live".
+description: Viết kịch bản livestream theo khối thời gian, có hướng thuyết phục, câu chốt, câu tương tác, lời mời, phân vai và việc của người trực bình luận. Dùng khi người dùng nói "kịch bản livestream", "tối nay live nói gì", "chuẩn bị buổi live".
 ---
 
 # Kịch bản livestream
@@ -17,6 +17,9 @@ description: Viết kịch bản livestream theo khối thời gian - thông bá
 - Ai lên hình, ai trực bình luận; điều cần mời và đường dẫn.
 - Nỗi đau, câu hỏi khách hay hỏi (`khach-hang-va-noi-dau.md`, báo cáo bình luận nếu có).
 
+## Bước 0 - Chọn hướng thuyết phục
+Đưa **ba hướng khác nhau**, mỗi hướng dựa một đòn tâm lý riêng, không trùng nhau (ví dụ: câu chuyện thay đổi có thật, giải đáp nỗi lo thường gặp, cho làm thử một bài nhỏ ngay trong buổi). Mỗi hướng ghi hợp với khách nào. Người duyệt chọn một hướng rồi mới viết kịch bản. Buổi trước có số liệu thì nói hướng nào từng làm tốt hơn và căn cứ.
+
 ## Bước 1 - Trước giờ
 Một bài thông báo (`viet-bai-dang-mang-xa-hoi`) và một tin nhắc ngắn trước giờ phát, theo giới hạn kênh của tổ chức.
 
@@ -30,6 +33,8 @@ Chia khối 10 đến 15 phút, mỗi khối:
 - Mỗi khối một ý, kết bằng một câu chốt ngắn (dùng được để cắt video sau).
 - Khoảng 10 phút một lần **nhắc lại cho người mới vào**: buổi này nói gì, đang tới đâu.
 - Đổi nhịp mỗi khối: câu chuyện, hỏi đáp, đọc bình luận.
+- Chuẩn bị sẵn **câu cứu khi vắng tương tác** (ví dụ một câu hỏi chọn một trong hai, đọc to một bình luận cũ) và **câu lấp chỗ** khi chờ khách mời, chờ kỹ thuật.
+- Lời nói theo giọng và cách xưng hô của tổ chức, kể cả giọng vùng miền nếu tổ chức đã chọn.
 
 ## Bước 4 - Lời mời
 - Chỉ mời điều có trong tài liệu, đúng giá, đúng hạn. Nói rõ người xem được gì, làm gì tiếp theo.
@@ -41,15 +46,18 @@ Chia khối 10 đến 15 phút, mỗi khối:
 - Bình luận phàn nàn, nhạy cảm, có dấu hiệu nguy hiểm: không tranh cãi công khai, mời nhắn riêng, báo người phụ trách ngay.
 
 ## Bước 6 - Sau buổi
-Ghi mốc thời gian các câu chốt để cắt video ngắn (`cat-video-dai-thanh-video-ngan`); ghi câu hỏi mới của khách cho lần sau.
+- Ghi mốc thời gian các câu chốt để cắt video ngắn (`cat-video-dai-thanh-video-ngan`); ghi câu hỏi mới của khách cho lần sau.
+- Có số liệu theo từng phút (người xem, bình luận, bấm đường dẫn, đăng ký) thì đặt cạnh các khối: khối nào giữ người, khối nào mất người, lời mời lúc nào có đăng ký; đưa sang `doc-so-lieu-rut-bai-hoc`.
 
 ## Đầu ra
 ```
 KỊCH BẢN LIVESTREAM: [chủ đề] · [nền tảng] · [ngày giờ] · [thời lượng] · mức rủi ro [vừa/cao]
 Mục tiêu: ...
+Hướng thuyết phục đã chọn: ... (hai hướng còn lại: ...)
 Trước giờ: [bài thông báo, tin nhắc]
 [bảng khối nội dung theo phút]
 Lời mời: ... (nguồn trong tài liệu: ...)
+Câu cứu khi vắng tương tác: ... · câu lấp chỗ: ...
 Người trực bình luận: [câu ghim, 5 câu hỏi dự kiến và câu trả lời, việc cần báo]
 Cần xác nhận: ...
 ```

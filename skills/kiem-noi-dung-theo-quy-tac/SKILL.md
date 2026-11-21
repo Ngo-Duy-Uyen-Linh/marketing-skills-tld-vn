@@ -31,7 +31,7 @@ Nội dung cần kiểm (chữ, kịch bản, mô tả ảnh, chú thích), lo�
 | Nhãn nội dung do AI tạo | Tổ chức yêu cầu mà chưa gắn |
 
 ## Bước 2 - Từ ngữ
-Từ cấm của tổ chức; tên gọi đúng (tổ chức, khóa học, diễn giả); không viết tắt; chính tả.
+Từ cấm của tổ chức; tên gọi đúng (tổ chức, khóa học, diễn giả); không viết tắt; chính tả. Dấu vết văn máy theo `bo-giong-van-may`: nhiều dấu vết dồn lại thì kết luận Cần sửa.
 
 ## Bước 3 - Giọng và thông điệp
 - So với giọng của tổ chức: mỗi tính chất giọng ghi "đúng" hoặc "lệch", lệch thì trích câu.
