@@ -1,0 +1,13 @@
+{
+  "name": "marketing-skills-tld-vn",
+  "owner": {
+    "name": "Thế Là Được"
+  },
+  "plugins": [
+    {
+      "name": "marketing-skills-tld-vn",
+      "source": "./",
+      "description": "Bộ kỹ năng marketing nội dung tiếng Việt cho mọi tổ chức: từ nghiên cứu xu hướng tới kịch bản, đăng, đo và rút bài học."
+    }
+  ]
+}
