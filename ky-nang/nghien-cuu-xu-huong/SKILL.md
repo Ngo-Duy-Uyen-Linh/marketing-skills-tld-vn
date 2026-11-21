@@ -27,7 +27,8 @@ Với mỗi bài ghi: kênh, nền tảng, ngày đăng, định dạng (video n
 Thêm hai nguồn của chính tổ chức nếu có: số liệu bài đã đăng, và các chủ đề nỗi đau, nhu cầu gom từ bình luận của khách.
 
 ## Bước 2 - Tìm bài vượt trội
-- Với mỗi kênh tính **trung vị** lượt xem của các bài đã gom. Kênh có **dưới 4 bài** thì không tính, vì trung vị của một hai bài không đáng tin; ghi tên kênh đó vào phần "bỏ qua vì ít bài".
+- Chỉ so bài **đã đăng từ 7 ngày** trở lên (bài mới chưa kịp lên lượt xem); bài mới hơn để riêng ở mục tín hiệu.
+- Với mỗi kênh tính **trung vị** lượt xem của các bài đã gom. Kênh có **dưới 4 bài** thì không tính (trung vị không đáng tin), ghi vào phần "bỏ qua vì ít bài".
 - **Bội số** của bài = lượt xem của bài chia trung vị của kênh.
 - Bài vượt trội là bài có bội số **từ 3 trở lên** (tổ chức đổi được ngưỡng). Xếp theo bội số giảm dần, không xếp theo lượt xem.
 - Nền tảng không hiện lượt xem thì dùng tổng tương tác thay lượt xem và ghi rõ đã thay.

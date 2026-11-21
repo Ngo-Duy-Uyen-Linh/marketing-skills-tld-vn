@@ -1,6 +1,6 @@
 # Marketing-skills-tld-vn: bộ kỹ năng marketing nội dung tiếng Việt
 
-Bộ kỹ năng chung cho mọi tổ chức (bản 0.2.1). Dùng được trong Claude Code và nạp được vào hệ thống quản trị Thế Là Được như một gói kỹ năng của nhân sự AI.
+Bộ kỹ năng chung cho mọi tổ chức (bản 0.3.0). Dùng được trong Claude Code và nạp được vào hệ thống quản trị Thế Là Được như một gói kỹ năng của nhân sự AI.
 
 ## Vòng làm nội dung
 ```
@@ -9,7 +9,7 @@ nghiên cứu xu hướng → mổ xẻ bài mẫu → lập kế hoạch → vi
 đọc số liệu, rút bài học ← thử nhiều phiên bản ← đăng (người duyệt) ← kịch bản video / bài đăng / cắt video dài
 ```
 
-## Mười ba kỹ năng
+## Mười tám kỹ năng
 | Kỹ năng | Việc |
 |---|---|
 | `ke-hoach-chien-dich` | Kế hoạch cả một đợt: mục tiêu đo được, thông điệp, kênh, lịch tính ngược từ mốc, chỉ số, ngân sách, rủi ro |
@@ -25,10 +25,16 @@ nghiên cứu xu hướng → mổ xẻ bài mẫu → lập kế hoạch → vi
 | `cat-video-dai-thanh-video-ngan` | Tìm đoạn tự đứng được trong livestream, buổi học |
 | `thu-nhieu-phien-ban` | Thiết kế và đọc kết quả thử, phép so hai tỷ lệ |
 | `doc-so-lieu-rut-bai-hoc` | Ba kiểu rò người xem, câu đang nói ở chỗ rò, đề xuất Ví dụ sửa |
+| `kiem-noi-dung-theo-quy-tac` | Kiểm bài theo bộ quy tắc: pháp lý, từ ngữ, giọng, mức rủi ro; kết luận Đạt, Cần sửa, Phải người duyệt |
+| `viet-anh-trich-dan` | Chọn câu đã duyệt và ảnh nền chưa dùng, đặt chữ lên mẫu, viết chú thích |
+| `kich-ban-livestream` | Kịch bản theo khối thời gian, phân vai, việc của người trực bình luận |
+| `tra-loi-binh-luan-cong-khai` | Phân loại bình luận, trả lời ngắn công khai, mời nhắn riêng, chuyển người |
+| `tieu-de-va-anh-bia` | Ba cặp tiêu đề và ảnh bìa, chấm như một cặp |
 
 ## Cấu trúc
 ```
 quy-tac-chung.md        quy tắc mọi kỹ năng làm theo
+bai-kiem-tra/           tình huống kiểm tra vào việc của gói (hệ thống Thế Là Được đọc)
 skills/<tên>/SKILL.md   kỹ năng (bản gốc, dạng Claude Code)
 ky-nang/<tên>/SKILL.md  bản chép cho hệ thống quản trị (tạo tự động)
 goi.json, vai-tro.md    tệp cho hệ thống quản trị (tạo tự động)

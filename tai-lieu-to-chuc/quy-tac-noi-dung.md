@@ -27,11 +27,15 @@ Tệp mẫu. Tổ chức điền rồi nạp vào kho tri thức loại **Luật
 ## 5. Nhãn nội dung do AI tạo
 - [có gắn nhãn không; gắn ở đâu; chữ nhãn]
 
-## 6. Ngưỡng của tổ chức (để trống là dùng mặc định của gói)
+## 6. Ngưỡng vận hành (để trống là dùng mặc định của gói)
+Trong hệ thống Thế Là Được, các số này là tham số vận hành do người sửa; có tham số thì theo tham số.
 | Ngưỡng | Mặc định của gói | Tổ chức đặt |
 |---|---|---|
-| Bội số để gọi là bài vượt trội | 3 | |
-| Điểm câu mở đầu "Mạnh" | 72 | |
-| Điểm câu mở đầu "Yếu" (dưới) | 55 | |
 | Số người tối thiểu mỗi phiên bản khi thử | 50 | |
 | Tỷ lệ thu hút / nuôi dưỡng / mời | 50 / 30 / 20 | |
+| Khoảng không lặp câu và ảnh trích dẫn trên cùng nơi đăng | 30 ngày | |
+
+Thang chấm câu mở đầu (Mạnh từ 72, Yếu dưới 55) và bội số bài vượt trội (3) là thang chấm của gói, nằm trong kỹ năng; muốn chỉnh thì đề xuất qua Ví dụ sửa khi đã có số liệu.
+
+## 7. Nội dung quảng cáo đã được xác nhận
+Sản phẩm liên quan sức khỏe: dán nội dung quảng cáo đã được cơ quan có thẩm quyền xác nhận (số, ngày xác nhận, nguyên văn). Em chỉ dùng câu chữ trong đó.

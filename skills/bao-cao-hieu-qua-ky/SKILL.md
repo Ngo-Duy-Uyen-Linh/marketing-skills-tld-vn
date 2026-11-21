@@ -25,7 +25,7 @@ Kỹ năng này nhìn **cả kỳ**. Đọc từng bài và chỗ người xem b
 | Chỉ số | Cách hiểu |
 |---|---|
 | Lượt xem, thích, bình luận, chia sẻ, lưu | Theo kênh, cộng cả kỳ |
-| Điểm hiệu quả | Tương tác trong 7 ngày của bài so với mức trung bình cùng loại nội dung, cùng kênh |
+| Điểm hiệu quả | Tương tác trong 7 ngày của bài chia **trung vị** các bài cùng loại nội dung, cùng kênh (trung vị không bị một bài đột biến kéo lệch). Hệ thống tính theo cách khác thì ghi rõ cách hệ thống tính |
 | Khách đăng ký thật | Hồ sơ mới đến qua đường dẫn theo dõi, không trùng 9 số cuối số điện thoại với hồ sơ đã có |
 | Chi phí mỗi khách đăng ký thật | Tiền đã chi chia số khách đăng ký thật (chỉ khi có chi tiền) |
 Nền tảng không có chỉ số nào thì ghi "nền tảng không cung cấp".

@@ -49,7 +49,7 @@ Chọn **ba nhóm khác nhau** hợp với nỗi đau và giọng của tổ ch�
 ## Bước 2 - Viết
 - Điền bằng chi tiết **của chính bài này** (tình huống, con số có nguồn, câu nói thật của khách đã được phép dùng), không để câu dùng được cho bài nào cũng được.
 - Video: viết cả **lời nói** và **chữ trên màn 2 giây đầu**, hai cái khác chữ nhau.
-- Độ dài lời nói: khoảng 12 đến 40 tiếng, đọc trong dưới 10 giây.
+- Độ dài: video ngắn 8 đến 15 tiếng (khoảng 3 giây); video dài và dòng đầu bài chữ 15 đến 40 tiếng.
 
 ## Bước 3 - Chấm
 Chấm từng câu theo kỹ năng `cham-cau-mo-dau`. Câu "Yếu" thì viết lại một lần rồi mới giao.
