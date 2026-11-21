@@ -32,6 +32,8 @@ Với hai phiên bản: phiên bản 1 có x1 người làm được trong n1 ng
 - **|z| từ 1,96 trở lên**: khác biệt đủ tin (độ tin khoảng 95%). Dưới 1,96: **chưa phân thắng thua**, không chọn theo cảm giác.
 Ba phiên bản thì so từng cặp với phiên bản đang dùng, nói rõ so nhiều cặp dễ ra kết quả may hơn.
 
+**Chỉ là gợi ý khi người xem không được chia ngẫu nhiên.** Hai bài đăng ở hai nhóm hay hai khung giờ khác nhau thì người xem khác nhau, nên |z| từ 1,96 chỉ ghi là "gợi ý", không ghi là kết luận. Chỉ ghi "đủ tin" khi nền tảng hoặc hệ thống tự chia ngẫu nhiên người xem cho các phiên bản.
+
 Hệ thống đã có phép so này ở chiến dịch chăm sóc khách hàng thì dùng cùng ngưỡng để hai nơi nói cùng một ngôn ngữ.
 
 ## Phần 3 - Ghi bài học
@@ -43,7 +45,8 @@ Hệ thống đã có phép so này ở chiến dịch chăm sóc khách hàng t
 LƯỢT THỬ: [tên] · đổi: [một thứ] · chỉ số chính: [tên] · hạn: [ngày]
 Phiên bản 1: ... · n1 [số] · x1 [số] · tỷ lệ [số]%
 Phiên bản 2: ... · n2 [số] · x2 [số] · tỷ lệ [số]%
-z = [số] · [đủ tin / chưa phân thắng thua / chưa đủ người]
+Cách chia: [ngẫu nhiên / không ngẫu nhiên]
+z = [số] · [đủ tin / gợi ý / chưa phân thắng thua / chưa đủ người]
 Điều rút ra: ...
 Đề xuất Ví dụ sửa: [có/chưa, vì sao]
 ```
