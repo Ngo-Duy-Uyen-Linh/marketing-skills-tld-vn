@@ -13,6 +13,10 @@ Các kỹ năng học **cách làm** từ những kho mã nguồn mở dưới �
 | github.com/coreyhaines31/marketingskills | MIT | Đọc bối cảnh sản phẩm và thương hiệu trước khi viết; viết riêng cho từng kênh | `viet-bai-dang-mang-xa-hoi`, `lap-ke-hoach-noi-dung` |
 | github.com/mvanhorn/last30days-skill | MIT | Nghiên cứu một chủ đề trên nhiều nền tảng trong 30 ngày, tổng hợp có dẫn nguồn | `nghien-cuu-xu-huong` |
 
+| github.com/anthropics/knowledge-work-plugins, thư mục `marketing/skills/` (commit `e91a134584eb798bac7fb0379358006a2b63b965`, 13/11/2026): `campaign-plan`, `performance-report`, `competitive-brief` | Apache-2.0 | Khung kế hoạch chiến dịch (mục tiêu, khách, thông điệp, kênh, lịch tính ngược từ mốc, chỉ số, ngân sách, rủi ro); khung báo cáo kỳ (bảng chỉ số so mục tiêu và kỳ trước, ba trạng thái, thắng và hụt, đề xuất theo tác động và công sức); khung so đối thủ (hứa gì, chứng minh, cách làm, riêng có; bảng so thông điệp; khoảng trống) | `ke-hoach-chien-dich` (bản 0.2.0), `bao-cao-hieu-qua-ky` (bản 0.2.0), `doi-thu-va-dinh-vi` (bản 0.2.0) |
+
+**Đã kiểm mã chưa:** chưa kiểm mã theo quy trình kiểm repo của dự án. Em chỉ đọc README, các tệp SKILL.md và đầu một vài tệp mã (chấm câu mở đầu, xếp bài vượt trội, đọc tỷ lệ còn xem) để học ý; không cài, không chạy gì. Gói này không chứa tệp, mã hay câu mẫu nào chép từ các kho trên, nên không mang mã của họ vào hệ thống. Không lấy các kỹ năng `content-creation`, `seo-audit`, `email-sequence` và tệp kết nối `.mcp.json` của bộ Anthropic.
+
 Phép so hai tỷ lệ ở `thu-nhieu-phien-ban` là phương pháp thống kê phổ biến, dùng cùng ngưỡng với chiến dịch chăm sóc khách hàng của hệ thống Thế Là Được.
 
 ## Khác với các kho tham khảo

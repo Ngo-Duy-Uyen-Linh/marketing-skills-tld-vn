@@ -1,6 +1,6 @@
 # Marketing-skills-tld-vn: bộ kỹ năng marketing nội dung tiếng Việt
 
-Bộ kỹ năng chung cho mọi tổ chức (bản 0.1.0). Dùng được trong Claude Code và nạp được vào hệ thống quản trị Thế Là Được như một gói kỹ năng của nhân sự AI.
+Bộ kỹ năng chung cho mọi tổ chức (bản 0.2.0). Dùng được trong Claude Code và nạp được vào hệ thống quản trị Thế Là Được như một gói kỹ năng của nhân sự AI.
 
 ## Vòng làm nội dung
 ```
@@ -9,9 +9,12 @@ nghiên cứu xu hướng → mổ xẻ bài mẫu → lập kế hoạch → vi
 đọc số liệu, rút bài học ← thử nhiều phiên bản ← đăng (người duyệt) ← kịch bản video / bài đăng / cắt video dài
 ```
 
-## Mười kỹ năng
+## Mười ba kỹ năng
 | Kỹ năng | Việc |
 |---|---|
+| `ke-hoach-chien-dich` | Kế hoạch cả một đợt: mục tiêu đo được, thông điệp, kênh, lịch tính ngược từ mốc, chỉ số, ngân sách, rủi ro |
+| `doi-thu-va-dinh-vi` | So thông điệp của đối thủ bằng nội dung công khai, tìm khoảng trống thông điệp |
+| `bao-cao-hieu-qua-ky` | Báo cáo tuần, tháng, đợt: chỉ số so mục tiêu và kỳ trước, thắng, hụt, ưu tiên kỳ sau |
 | `nghien-cuu-xu-huong` | Tìm bài vượt trội so với chính kênh, rút chủ đề và kiểu câu mở đầu đang lên, viết bản tin xu hướng |
 | `mo-xe-bai-mau` | Mổ xẻ một bài hiệu quả thành thẻ cấu trúc để học khung |
 | `lap-ke-hoach-noi-dung` | Kế hoạch tuần hoặc tháng: thu hút, nuôi dưỡng, mời; gắn nỗi đau và mức rủi ro |

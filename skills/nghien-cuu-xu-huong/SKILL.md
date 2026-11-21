@@ -12,7 +12,7 @@ description: Nghiên cứu nội dung đang hiệu quả trong một chủ đề
 - Không bịa số liệu; ít dữ liệu thì nói "chưa đủ để kết luận".
 - Tiếng Việt đầy đủ, không viết tắt; ghi chú cho người duyệt tách khỏi nội dung đăng.
 
-Mục tiêu không phải tìm bài nhiều lượt xem nhất. Bài triệu lượt xem trên kênh lúc nào cũng triệu lượt xem chẳng dạy được gì. Bài đáng học là bài **vượt xa mức thường ngày của chính kênh đó**.
+Bài đáng học không phải bài nhiều lượt xem nhất mà là bài **vượt xa mức thường ngày của chính kênh đó**.
 
 ## Đầu vào
 - Chủ đề hoặc ngách (ví dụ: hôn nhân gia đình, nuôi dạy con, sức khỏe phụ nữ).
@@ -52,9 +52,6 @@ BẢN TIN XU HƯỚNG: [chủ đề] · [từ ngày] đến [ngày]
    Mỗi ý: chủ đề · khung học từ bài nào · nỗi đau nào · định dạng · mức rủi ro dự kiến
 ```
 
-## Bước 5 - Kiểm trước khi giao
-- Mọi con số có nguồn và ngày lấy.
-- Ý đề xuất học khung, không chép lời hay câu chuyện của người khác.
-- Ý nào chạm mức cao (sức khỏe, giá, hình ảnh học viên) thì ghi rõ để người duyệt biết.
+Trước khi giao: mọi số có nguồn và ngày lấy; ý đề xuất học khung, không chép; ý chạm mức cao thì ghi rõ.
 
 Kết thúc bằng câu hỏi: **chọn ý nào để lên kịch bản?** Ý được chọn chuyển sang `mo-xe-bai-mau` hoặc `viet-kich-ban-video-ngan`.
