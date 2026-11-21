@@ -1,6 +1,16 @@
 # Marketing-skills-tld-vn: bộ kỹ năng marketing nội dung tiếng Việt
 
-Bộ kỹ năng chung cho mọi tổ chức (bản 0.4.0). Dùng được trong Claude Code và nạp được vào hệ thống quản trị Thế Là Được như một gói kỹ năng của nhân sự AI.
+Bộ kỹ năng chung cho mọi tổ chức (bản 0.5.0). Dùng được trong Claude Code và nạp được vào hệ thống quản trị Thế Là Được như một gói kỹ năng của nhân sự AI.
+
+## Bốn gói theo vai (từ bản 0.5.0)
+Hệ thống nạp toàn bộ kỹ năng của gói vào mỗi lượt chạy, nên bộ được tách thành bốn gói theo vai để mỗi nhân sự AI chỉ nạp phần của mình. Thư mục này là **bản gốc duy nhất**; bốn gói sinh tự động bằng `node dong-bo.cjs`.
+| Gói | Kỹ năng | Khoảng ký tự mỗi lượt |
+|---|---|---|
+| `marketing-nghien-cuu-tld-vn` | nghiên cứu xu hướng, mổ xẻ bài mẫu, đối thủ và định vị, kế hoạch chiến dịch, lập kế hoạch nội dung, báo cáo hiệu quả kỳ, đọc số liệu, thử nhiều phiên bản | 36.000 |
+| `marketing-sang-tao-tld-vn` | viết và chấm câu mở đầu, kịch bản video ngắn, bài đăng, cắt video dài, tiêu đề và ảnh bìa, ảnh trích dẫn, kịch bản livestream, bỏ giọng văn máy | 39.000 |
+| `marketing-giu-quy-tac-tld-vn` | kiểm nội dung theo quy tắc, bỏ giọng văn máy | 14.000 |
+| `marketing-binh-luan-tld-vn` | trả lời bình luận công khai, bỏ giọng văn máy | 14.000 |
+Gói đầy đủ (thư mục này) khoảng 76.000 ký tự, hợp với Claude Code hoặc khi một AI làm hết mọi việc.
 
 ## Vòng làm nội dung
 ```
