@@ -27,7 +27,7 @@ description: Lập kế hoạch nội dung theo tuần hoặc tháng cho các k�
 | Thu hút | Người lạ dừng lại, chia sẻ, theo dõi | 50% |
 | Nuôi dưỡng | Người đã biết tin hơn: câu chuyện, giải đáp, giá trị dùng ngay | 30% |
 | Mời mua, mời tham gia | Lời mời rõ ràng tới khóa, sản phẩm, sự kiện | 20% |
-Tổ chức đổi được tỷ lệ. Gần ngày khai giảng hay sự kiện thì tăng phần mời, nhưng không quá một nửa số bài.
+Đọc tỷ lệ từ tham số của hệ thống khi có; chưa có thì dùng mặc định 50/30/20 ở `tai-lieu-to-chuc/quy-tac-noi-dung.md`. Gần ngày khai giảng hay sự kiện thì tăng phần mời, nhưng không quá một nửa số bài.
 
 ## Bước 2 - Gắn từng bài với một lý do
 Mỗi bài có đủ: **một nỗi đau hoặc nhu cầu** của khách; **một nguồn ý** (xu hướng, thẻ cấu trúc, câu hỏi khách hay hỏi, bài cũ hiệu quả cần làm lại); **một hành động** mong người xem làm.

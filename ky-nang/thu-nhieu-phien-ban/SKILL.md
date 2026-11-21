@@ -24,7 +24,7 @@ description: Thiết kế và đọc kết quả thử hai hay ba phiên bản c
    | Dòng đầu bài chữ | Tỷ lệ bấm "Xem thêm" hoặc tương tác trên lượt tiếp cận |
    | Lời kêu gọi | Tỷ lệ làm đúng hành động (bình luận, nhắn tin, bấm đường dẫn) |
 4. **Chia cho công bằng**: hai phiên bản đăng ở hai nơi tương đương (hai nhóm Zalo cỡ gần nhau, hai khung giờ cùng ngày trong tuần) hoặc dùng công cụ thử của nền tảng nếu có. Ghi rõ cách chia.
-5. **Cỡ mẫu tối thiểu**: mỗi phiên bản **ít nhất 50 người** đi tới bước được đo (tổ chức đổi được). Chưa đủ thì không đọc kết quả.
+5. **Cỡ mẫu tối thiểu**: mỗi phiên bản **ít nhất 50 người** đi tới bước được đo. Đọc số này từ tham số của hệ thống khi có; chưa có thì dùng mặc định ở `tai-lieu-to-chuc/quy-tac-noi-dung.md`. Chưa đủ thì không đọc kết quả.
 6. Ghi hạn thử (mặc định 7 ngày).
 
 ## Phần 2 - Đọc kết quả

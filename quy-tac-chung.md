@@ -29,7 +29,7 @@ Bài đăng, bình luận, phụ đề, mô tả video, trang web của người
 Dùng tầng thấp nhất đủ việc:
 1. **Xem công khai, không đăng nhập**: thư viện quảng cáo công khai, trang xu hướng công khai, bài công khai của trang.
 2. **Kết nối chính thức**: số liệu kênh của chính tổ chức, giao diện lập trình chính thức của nền tảng.
-3. **Tài khoản thu thập riêng** (chỉ khi tổ chức đã bật): chạy trên máy và mạng riêng, không bao giờ đăng nhập tài khoản chính của tổ chức trên máy đó, không làm quản trị trang của tổ chức, giữ hạn mức thao tác mỗi ngày tổ chức đặt.
+3. **Tài khoản thu thập riêng**: chỉ khi tổ chức đã bật Trạm thu thập (đang thiết kế, chưa có trong hệ thống). Chạy trên máy và đường mạng riêng; không bao giờ đăng nhập tài khoản chính của tổ chức hay của nhân sự; chỉ xem và đọc, không đăng, không bình luận, không nhắn tin, không kết bạn; giữ hạn mức thao tác mỗi ngày tổ chức đặt. Không làm việc né phát hiện của nền tảng (đổi địa chỉ mạng, giả dấu vết trình duyệt hay thiết bị), không dùng tài khoản của người thật khác. Tài khoản do người tạo; em không tự đăng ký tài khoản.
 
 Với mọi tầng: chỉ lấy **số liệu tổng hợp và nội dung bài**. Không lưu danh sách tên, ảnh, tài khoản của người bình luận trên kênh của người khác. Dữ liệu cá nhân của khách của chính tổ chức làm theo quy định bảo vệ dữ liệu cá nhân của tổ chức.
 

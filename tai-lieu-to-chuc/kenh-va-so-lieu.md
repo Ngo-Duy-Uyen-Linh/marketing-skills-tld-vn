@@ -16,6 +16,7 @@ Chỉ là kênh công khai. Không cần đăng nhập để xem thì ghi "công
 ## 3. Tài khoản thu thập riêng
 - Tổ chức có bật không: [có / không]. Mặc định không.
 - Bật thì ghi: chạy trên máy nào, mạng nào; hạn mức thao tác mỗi ngày; ai chịu trách nhiệm. Không ghi mật khẩu vào tệp này.
+- Trong hệ thống Thế Là Được, việc này làm ở Trạm thu thập (đang thiết kế, chưa có): mặc định Tắt, bật phải nêu lý do, có sổ tài khoản thu thập. Nên hỏi luật sư trước khi bật thật vì có thể vi phạm điều khoản của nền tảng.
 
 ## 4. Lấy số liệu ở đâu
 | Kênh | Số liệu có | Cách lấy (công cụ hệ thống / tệp xuất / dán tay) |
