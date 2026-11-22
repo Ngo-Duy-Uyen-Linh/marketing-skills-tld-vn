@@ -32,7 +32,7 @@ Trong hệ thống Thế Là Được, các số này là tham số vận hành 
 | Ngưỡng | Mặc định của gói | Tổ chức đặt |
 |---|---|---|
 | Số người tối thiểu mỗi phiên bản khi thử | 50 | |
-| Tỷ lệ thu hút / nuôi dưỡng / mời / chăm sóc | 40 / 25 / 20 / 15 | |
+| Tỷ lệ thu hút / nuôi dưỡng / mời / chăm sóc | 40 / 25 / 15 / 20 | |
 | Khoảng không lặp câu và ảnh trích dẫn trên cùng nơi đăng | 30 ngày | |
 | Khoảng tối thiểu giữa hai lần làm mới cùng một bài trên cùng kênh | 90 ngày | |
 

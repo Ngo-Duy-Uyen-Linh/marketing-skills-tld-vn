@@ -26,9 +26,9 @@ description: Lập kế hoạch nội dung theo tuần hoặc tháng cho các k�
 |---|---|---|
 | Thu hút | Người lạ dừng lại, chia sẻ, theo dõi | 40% |
 | Nuôi dưỡng | Người đã biết tin hơn: câu chuyện, giải đáp, giá trị dùng ngay | 25% |
-| Mời mua, mời tham gia | Lời mời rõ ràng tới khóa, sản phẩm, sự kiện | 20% |
-| Chăm sóc | Khách đã mua, học viên dùng hiệu quả hơn và ở lại: mẹo đạt kết quả cao, cách gỡ nút thắt và khiếu nại hay gặp, nhắc lịch, mừng tiến bộ | 15% |
-Đọc tỷ lệ từ tham số của hệ thống khi có; chưa có thì dùng mặc định 40/25/20/15 ở `tai-lieu-to-chuc/quy-tac-noi-dung.md`. Gần ngày khai giảng hay sự kiện thì tăng phần mời, nhưng không quá một nửa số bài. Kênh chỉ dành cho khách đã mua (nhóm học viên, nhóm khách hàng) thì không theo tỷ lệ chung: chăm sóc là chính, chỉ mời khi có khóa hay sản phẩm nối tiếp hợp với họ.
+| Mời mua, mời tham gia | Lời mời rõ ràng tới khóa, sản phẩm, sự kiện | 15% |
+| Chăm sóc | Khách đã mua, học viên dùng hiệu quả hơn và ở lại: mẹo đạt kết quả cao, cách gỡ nút thắt và khiếu nại hay gặp, nhắc lịch, mừng tiến bộ | 20% |
+Đọc tỷ lệ từ tham số của hệ thống khi có; chưa có thì dùng mặc định 40/25/15/20 ở `tai-lieu-to-chuc/quy-tac-noi-dung.md`. Gần ngày khai giảng hay sự kiện thì tăng phần mời, nhưng không quá một nửa số bài. Kênh chỉ dành cho khách đã mua (nhóm học viên, nhóm khách hàng) thì không theo tỷ lệ chung: chăm sóc là chính, chỉ mời khi có khóa hay sản phẩm nối tiếp hợp với họ.
 
 **Bài chăm sóc lấy ý từ đâu:** câu hỏi, khiếu nại, chỗ khách hay vướng gom từ bình luận, nhóm, hộp thoại, đánh giá (chỉ dùng số tổng hợp, không nêu tên khách); Ví dụ sửa; tài liệu khóa học, hướng dẫn dùng sản phẩm. Bài về khiếu nại hay gặp nói cách gỡ chung; khiếu nại của một người cụ thể không đưa lên bài mà chuyển người phụ trách. Bài chăm sóc nhắc khiếu nại là mức cao.
 

@@ -1,6 +1,6 @@
 # Marketing-skills-tld-vn: bộ kỹ năng marketing nội dung tiếng Việt
 
-Bộ kỹ năng chung cho mọi tổ chức (bản 0.6.0). Dùng được trong Claude Code và nạp được vào hệ thống quản trị Thế Là Được như một gói kỹ năng của nhân sự AI.
+Bộ kỹ năng chung cho mọi tổ chức (bản 0.6.1). Dùng được trong Claude Code và nạp được vào hệ thống quản trị Thế Là Được như một gói kỹ năng của nhân sự AI.
 
 ## Bốn gói theo vai (từ bản 0.5.0)
 Hệ thống nạp toàn bộ kỹ năng của gói vào mỗi lượt chạy, nên bộ được tách thành bốn gói theo vai để mỗi nhân sự AI chỉ nạp phần của mình. Thư mục này là **bản gốc duy nhất**; bốn gói sinh tự động bằng `node dong-bo.cjs`.
