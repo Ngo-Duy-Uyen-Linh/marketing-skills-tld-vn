@@ -10,7 +10,7 @@ Hệ thống nạp toàn bộ kỹ năng của gói vào mỗi lượt chạy, n
 | `marketing-sang-tao-tld-vn` | viết và chấm câu mở đầu, kịch bản video ngắn, bài đăng, cắt video dài, tiêu đề và ảnh bìa, ảnh trích dẫn, kịch bản livestream, bỏ giọng văn máy, dựng giọng văn thương hiệu | 48.000 |
 | `marketing-giu-quy-tac-tld-vn` | kiểm nội dung theo quy tắc, bỏ giọng văn máy | 15.000 |
 | `marketing-binh-luan-tld-vn` | trả lời bình luận công khai, xử lý sự cố truyền thông, bỏ giọng văn máy | 20.000 |
-Gói đầy đủ (thư mục này) khoảng 98.000 ký tự, hợp với Claude Code hoặc khi một AI làm hết mọi việc.
+Số ký tự mỗi lượt = vai trò (`vai-tro.md`, gồm quy tắc chung, khoảng 6.600) cộng mọi kỹ năng trong `ky-nang/`, đếm bằng số ký tự (không đếm byte); không tính `tai-lieu-to-chuc/` vì tệp đó nạp vào kho tri thức. Gói đầy đủ (thư mục này) khoảng 98.000 ký tự (kỹ năng khoảng 91.700), hợp với Claude Code hoặc khi một AI làm hết mọi việc.
 
 ## Vòng làm nội dung
 ```
