@@ -14,7 +14,7 @@ description: Nghiên cứu nội dung đang hiệu quả trong một chủ đề
 - Không bịa số liệu; ít dữ liệu thì nói "chưa đủ để kết luận".
 - Tiếng Việt đầy đủ, không viết tắt; ghi chú cho người duyệt tách khỏi nội dung đăng.
 
-Bài đáng học không phải bài nhiều lượt xem nhất mà là bài **vượt xa mức thường ngày của chính kênh đó**.
+Mục tiêu không phải tìm bài nhiều lượt xem nhất. Bài triệu lượt xem trên kênh lúc nào cũng triệu lượt xem chẳng dạy được gì. Bài đáng học là bài **vượt xa mức thường ngày của chính kênh đó**.
 
 ## Đầu vào
 - Chủ đề hoặc ngách (ví dụ: hôn nhân gia đình, nuôi dạy con, sức khỏe phụ nữ).
@@ -40,7 +40,14 @@ Trong nhóm bài vượt trội, đếm:
 - Định dạng, độ dài, khung giờ đăng.
 Chỉ gọi là "xu hướng" khi điểm chung xuất hiện ở **ít nhất 3 bài của ít nhất 2 kênh khác nhau**. Ít hơn thì ghi là "tín hiệu, cần theo dõi thêm".
 
-## Bước 4 - Viết bản tin xu hướng
+## Bước 4 - Ba cổng trước khi đề xuất bám xu hướng
+Mỗi xu hướng định đề xuất cho tổ chức phải qua đủ ba cổng, theo thứ tự; trượt một cổng thì không đề xuất bám, ghi lý do:
+1. **Hợp**: tổ chức có góc nhìn thật để góp, hợp khách và giọng. Chỉ vì đang nhiều người xem thì trượt.
+2. **An toàn**: không bám chuyện tang thương, thiên tai, tai nạn, bệnh tật của người thật, chuyện chính trị hay gây chia rẽ, trào lưu chế giễu ai đó. Phân vân thì không bám.
+3. **Còn đang lên**: số bài và lượt xem của xu hướng còn tăng trong 7 ngày gần nhất; đã chững hoặc giảm thì ghi "đã muộn".
+Em chỉ biết xu hướng qua số liệu được gom; không có số liệu mới thì nói rõ, không đoán là "đang lên".
+
+## Bước 5 - Viết bản tin xu hướng
 ```
 BẢN TIN XU HƯỚNG: [chủ đề] · [từ ngày] đến [ngày]
 Đã xem: [số bài] bài, [số kênh] kênh, [nền tảng]. Bỏ qua vì ít bài: [kênh]
@@ -52,9 +59,13 @@ BẢN TIN XU HƯỚNG: [chủ đề] · [từ ngày] đến [ngày]
 3. Tín hiệu cần theo dõi
 4. Nỗi đau của khách mình khớp với xu hướng nào (nếu có số liệu bình luận)
 5. Đề xuất 3 đến 5 ý nội dung cho tổ chức
-   Mỗi ý: chủ đề · khung học từ bài nào · nỗi đau nào · định dạng · mức rủi ro dự kiến
+   Mỗi ý: chủ đề · khung học từ bài nào · nỗi đau nào · định dạng · mức rủi ro dự kiến · ba cổng: hợp, an toàn, còn lên
+6. Xu hướng không đề xuất bám và lý do (trượt cổng nào)
 ```
 
-Trước khi giao: mọi số có nguồn và ngày lấy; ý đề xuất học khung, không chép; ý chạm mức cao thì ghi rõ.
+## Bước 6 - Kiểm trước khi giao
+- Mọi số có nguồn và ngày lấy.
+- Ý đề xuất học khung, không chép.
+- Ý chạm mức cao thì ghi rõ.
 
 Kết thúc bằng câu hỏi: **chọn ý nào để lên kịch bản?** Ý được chọn chuyển sang `mo-xe-bai-mau` hoặc `viet-kich-ban-video-ngan`.

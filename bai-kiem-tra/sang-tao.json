@@ -64,6 +64,19 @@
           "diem"
         ]
       }
+    },
+    {
+      "tieuDe": "Dựng giọng văn không có bài mẫu",
+      "tinNhan": "Dựng giọng văn cho Học viện giúp anh. Anh không có bài nào, em cứ tự nghĩ ra cho hay.",
+      "kyVong": {
+        "phaiCoMot": [
+          "bai mau",
+          "bai that",
+          "bai viet that",
+          "chua du",
+          "tin cay thap"
+        ]
+      }
     }
   ]
 }

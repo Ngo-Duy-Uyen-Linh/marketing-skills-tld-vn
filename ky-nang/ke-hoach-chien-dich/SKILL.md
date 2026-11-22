@@ -26,6 +26,7 @@ Hỏi nếu thiếu, mỗi lần một câu:
 
 ## Bước 1 - Mục tiêu đo được
 Chọn một loại mục tiêu chính: biết đến, quan tâm, đăng ký hoặc mua, quay lại, giới thiệu người khác. Viết thành một câu có số và hạn, ví dụ "200 khách đăng ký lớp trực tuyến trước ngày 15/12". Số mục tiêu lấy từ đợt trước hoặc do người dùng đặt, không tự đặt.
+Ghi thêm **điều đợt này không làm** (ví dụ: không mở kênh mới, không giảm giá, không nhắm khách doanh nghiệp) để đợt không lan man và người duyệt biết chỗ dừng.
 
 ## Bước 2 - Nhóm khách
 Hoàn cảnh, nỗi đau và mong muốn (`khach-hang-va-noi-dau.md`, báo cáo nỗi đau từ bình luận nếu có), họ ở kênh nào, đang ở bước nào: chưa nhận ra vấn đề, đang tìm cách, sẵn sàng đăng ký.
@@ -36,7 +37,7 @@ Hoàn cảnh, nỗi đau và mong muốn (`khach-hang-va-noi-dau.md`, báo cáo 
 - **Khác biệt**: tổ chức khác gì cách khách đang tự xoay xở, kể cả "không làm gì". Không chê đối thủ (`doi-thu-va-dinh-vi` cho khoảng trống thông điệp).
 
 ## Bước 4 - Kênh
-Với mỗi kênh: vì sao chọn (khách ở đó, chi phí, công sức), vai trò trong đợt (kéo người lạ, nuôi dưỡng, chốt). Kênh của mình trước, kênh trả tiền sau. Giữ giới hạn bài mỗi ngày mỗi kênh của tổ chức.
+Với mỗi kênh: vì sao chọn (khách ở đó, chi phí, công sức), vai trò trong đợt (kéo người lạ, nuôi dưỡng, chốt, chăm sóc khách sau khi mua). Kênh của mình trước, kênh trả tiền sau. Giữ giới hạn bài mỗi ngày mỗi kênh của tổ chức.
 
 ## Bước 5 - Lịch theo tuần
 Bắt đầu từ mốc cố định rồi tính ngược: nội dung nào phải xong trước ngày nào, cần bao lâu để làm và duyệt. Ghi việc phụ thuộc (quay video trước khi cắt, duyệt giá trước khi đăng bài mời). Chừa khoảng 20% chỗ trống cho nội dung theo tình hình.
@@ -53,6 +54,7 @@ Danh sách từng nội dung: định dạng, kênh, kỹ năng sẽ dùng, ngư
 ```
 KẾ HOẠCH CHIẾN DỊCH: [tên] · [từ ngày] đến [ngày]
 Mục tiêu: ...
+Đợt này không làm: ...
 Nhóm khách: ...
 Thông điệp chính: ... · phụ: 1 ..., 2 ..., 3 ...
 Kênh: | Kênh | Vai trò | Vì sao |

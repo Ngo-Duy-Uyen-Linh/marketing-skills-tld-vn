@@ -41,10 +41,11 @@ Xếp mọi bình luận vào các loại dưới đây và **nói số lượng
 
 ## Bước 4 - Gắn chủ đề, gom ý
 - Gắn mỗi bình luận vào chủ đề nỗi đau và nhu cầu của tổ chức (nếu có danh sách); không khớp thì ghi "chưa gắn chủ đề". Chỉ dùng số tổng hợp cho báo cáo.
-- **Câu hỏi lặp lại** là ý cho bài sau; **cụm từ khách dùng nhiều lần** (đã bỏ tên) là chất liệu cho câu mở đầu (`viet-cau-mo-dau`).
+- **Câu hỏi lặp lại** là ý cho bài sau (của khách đã mua thì là ý cho bài chăm sóc: mẹo, gỡ nút thắt); **cụm từ khách dùng nhiều lần** (đã bỏ tên) là chất liệu cho câu mở đầu (`viet-cau-mo-dau`).
 
 ## Bước 5 - Ưu tiên
 Phàn nàn và nhạy cảm trước, rồi câu hỏi thông tin (người hỏi có thể đang muốn mua), rồi phần còn lại.
+Nhiều bình luận cùng phản ánh một việc trong thời gian ngắn, tin sai về tổ chức lan nhanh, hoặc có trang, video giả mạo tổ chức: dừng trả lời từng bình luận, báo người phụ trách ngay và chuyển sang `xu-ly-su-co-truyen-thong`.
 
 ## Đầu ra
 ```

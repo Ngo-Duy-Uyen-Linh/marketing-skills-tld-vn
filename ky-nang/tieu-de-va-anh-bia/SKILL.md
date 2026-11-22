@@ -41,6 +41,7 @@ Viết khoảng mười cặp, chấm ở bước 4, giữ ba cặp tốt nhất
 | Đúng sự thật | Video có đúng điều được hứa |
 | Đọc được | Chữ trên ảnh đọc được ở cỡ ảnh nhỏ trên điện thoại |
 | Cụ thể | Có chi tiết cụ thể thay cho từ to tát |
+| Đúng quy tắc | Không từ cấm của tổ chức; tên gọi đúng (tổ chức, khóa học, diễn giả); không viết tắt; đúng chính tả |
 Dùng thêm tiêu chí Cụ thể, Tò mò của `cham-cau-mo-dau` cho tiêu đề. Cặp trượt "Đúng sự thật" thì loại, không sửa vớt.
 
 ## Bước 5 - Gợi ý thử

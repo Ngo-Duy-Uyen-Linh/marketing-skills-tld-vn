@@ -19,7 +19,8 @@ description: Viết kịch bản video ngắn 15 đến 90 giây cho TikTok, Ree
 - Thẻ cấu trúc nếu có (`mo-xe-bai-mau`); không có thì dùng khung mặc định bên dưới.
 - Nền tảng, thời lượng mong muốn (mặc định 30 đến 45 giây).
 - Ai nói trên hình (diễn giả, nhân viên, chỉ lồng tiếng), có cảnh quay sẵn hay phải quay mới.
-- Đích đến của người xem: bình luận, lưu, nhắn tin, vào nhóm, đăng ký.
+- Loại video: thu hút, nuôi dưỡng, mời, chăm sóc (mẹo đạt kết quả cao, gỡ nút thắt hay gặp của khách đã mua).
+- Đích đến của người xem: **một** hành động chính hợp với loại video (bảng ở `viet-bai-dang-mang-xa-hoi` bước 3).
 
 ## Khung mặc định (khi chưa có thẻ cấu trúc)
 | Đoạn | Thời gian | Việc |
@@ -29,6 +30,8 @@ description: Viết kịch bản video ngắn 15 đến 90 giây cho TikTok, Ree
 | Ngoặt | 10 đến 20 giây | Một điều người xem chưa nghĩ tới |
 | Giá trị | 20 đến 35 giây | Một việc làm được ngay, cụ thể |
 | Kêu gọi | 35 đến 45 giây | Một hành động, có lý do thật |
+
+Video chăm sóc: chỗ khách hay vướng → vì sao vướng → cách gỡ từng bước → dấu hiệu đã gỡ được → vướng tiếp thì hỏi ở đâu.
 
 ## Bước 1 - Một ý, một người xem
 Viết một câu: video này cho **ai**, giúp họ **hiểu hoặc làm được điều gì**. Không viết được một câu thì ý còn rộng, thu hẹp trước.
@@ -42,10 +45,11 @@ Mỗi cảnh một dòng:
 - Lời nói: câu ngắn, mỗi câu một ý, nói như nói chuyện.
 - Đổi hình mỗi 2 đến 4 giây (đổi góc, chèn chữ, cảnh phụ) để giữ nhịp.
 - Chữ trên màn không chép y lời nói, chỉ giữ từ khóa.
+- **Tắt tiếng vẫn hiểu**: nhiều người xem không bật tiếng, nên chữ trên màn và hình phải tự kể được ý chính. Đọc riêng cột chữ trên màn xem có hiểu không.
 - Có cảnh dùng hình ảnh học viên, khách hàng thì ghi rõ "cần quyền sử dụng hình ảnh" ở cột ghi chú.
 
 ## Bước 4 - Kết và vòng lặp
-- Lời kêu gọi chỉ **một** hành động.
+- Lời kêu gọi chỉ **một** hành động, hợp với loại video.
 - Nếu hợp, câu cuối gợi lại câu đầu để video xem lại liền mạch.
 
 ## Bước 5 - Tự kiểm
@@ -55,7 +59,7 @@ Mỗi cảnh một dòng:
 
 ## Đầu ra
 ```
-KỊCH BẢN: [tên] · [nền tảng] · [thời lượng] · mức rủi ro dự kiến [thấp/vừa/cao]
+KỊCH BẢN: [tên] · [loại video] · [nền tảng] · [thời lượng] · mức rủi ro dự kiến [thấp/vừa/cao]
 Cho ai, để làm gì: ...
 Câu mở đầu đã chọn: ... (điểm [số]) · hai phương án dự phòng: ...
 [bảng cảnh]

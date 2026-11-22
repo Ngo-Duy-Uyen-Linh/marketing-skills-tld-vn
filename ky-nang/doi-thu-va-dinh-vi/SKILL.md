@@ -31,6 +31,7 @@ Với mỗi đối thủ: trang chủ và trang khóa học, sản phẩm; trang
 | Làm bằng cách nào | Phương pháp, hình thức học, thời lượng họ công bố |
 | Chỉ họ có gì | Điều họ nhận là riêng có |
 Thêm: nói với ai, giọng (ấm áp, chuyên gia, mạnh mẽ...), câu khẩu hiệu.
+Luôn thêm một "đối thủ": **cách khách đang tự xoay xở hoặc không làm gì** (tự đọc sách, xem video miễn phí, hỏi người quen, chịu đựng). Đây thường là đối thủ lớn nhất; ghi khách được gì và mất gì khi giữ cách đó, và đưa thành một cột "Tự xoay xở" trong bảng so ở bước 3.
 
 ## Bước 3 - Bảng so thông điệp
 | Khía cạnh | Tổ chức mình | Đối thủ 1 | Đối thủ 2 |

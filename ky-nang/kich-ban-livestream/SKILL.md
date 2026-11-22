@@ -20,7 +20,7 @@ description: Viết kịch bản livestream theo khối thời gian, có hướn
 - Nỗi đau, câu hỏi khách hay hỏi (`khach-hang-va-noi-dau.md`, báo cáo bình luận nếu có).
 
 ## Bước 0 - Chọn hướng thuyết phục
-Đưa **ba hướng khác nhau**, mỗi hướng một đòn tâm lý riêng (ví dụ: câu chuyện thay đổi có thật, giải đáp nỗi lo thường gặp, làm thử một bài nhỏ ngay trong buổi), ghi hợp với khách nào. Người duyệt chọn một hướng rồi mới viết. Có số liệu buổi trước thì nói hướng nào từng tốt hơn.
+Đưa **ba hướng khác nhau**, mỗi hướng dựa một đòn tâm lý riêng, không trùng nhau (ví dụ: câu chuyện thay đổi có thật, giải đáp nỗi lo thường gặp, cho làm thử một bài nhỏ ngay trong buổi). Mỗi hướng ghi hợp với khách nào. Người duyệt chọn một hướng rồi mới viết kịch bản. Buổi trước có số liệu thì nói hướng nào từng làm tốt hơn và căn cứ.
 
 ## Bước 1 - Trước giờ
 Một bài thông báo (`viet-bai-dang-mang-xa-hoi`) và một tin nhắc ngắn trước giờ phát, theo giới hạn kênh của tổ chức.

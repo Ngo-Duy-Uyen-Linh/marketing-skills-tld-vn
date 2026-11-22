@@ -1,6 +1,6 @@
 ---
 name: viet-cau-mo-dau
-description: Viết câu mở đầu cho video ngắn, video dài, bài đăng mạng xã hội - mỗi lần ba phương án thuộc ba nhóm tâm lý khác nhau trong mười nhóm, điền bằng chi tiết của chính bài, rồi chấm trước khi giao. Dùng khi người dùng nói "viết câu mở đầu", "câu đầu video", "câu móc", "dòng đầu bài đăng", "làm sao giữ người xem 3 giây đầu", hoặc dán một kịch bản, một chủ đề.
+description: Viết câu mở đầu cho video ngắn, video dài, bài đăng mạng xã hội - tìm chất liệu trong chính bài, viết 6 đến 10 câu trên nhiều nhóm tâm lý, chấm rồi giữ ba câu thuộc ba nhóm khác nhau. Dùng khi người dùng nói "viết câu mở đầu", "câu đầu video", "câu móc", "dòng đầu bài đăng", "làm sao giữ người xem 3 giây đầu", hoặc dán một kịch bản, một chủ đề.
 ---
 
 <!-- BẢN CHÉP: bản gốc ở marketing-skills-tld-vn/skills/viet-cau-mo-dau/SKILL.md. Không sửa ở đây; sửa bản gốc rồi chạy: node dong-bo.cjs -->
@@ -20,7 +20,7 @@ Câu mở đầu làm ba việc: **xác nhận** điều tiêu đề hoặc ản
 2. Một ý. Câu mang hai lời hứa thì không giữ được lời nào.
 3. Cụ thể hơn to tát: "3 câu vợ chồng hay nói lúc 10 giờ tối" hơn "bí quyết hôn nhân hạnh phúc".
 4. Hứa cho xem gì thì cho xem sớm.
-5. Không mở bằng giới thiệu bản thân, không xin theo dõi ở câu đầu.
+5. Không mở bằng giới thiệu bản thân, không xin theo dõi ở câu đầu, không chào hỏi ("Xin chào cả nhà"), không tả lại thứ người xem đang thấy, không tự giải luôn câu hỏi vừa mở.
 
 ## Mười nhóm câu mở đầu
 | Nhóm | Hình dạng | Hỏng khi |
@@ -43,25 +43,31 @@ Tổ chức có danh sách câu mở đầu đã dùng tốt (trong Ví dụ s�
 - Nền tảng và định dạng (video ngắn: 3 giây đầu; video dài: 15 giây đầu; bài chữ: dòng hiện trước chữ "Xem thêm").
 - Nỗi đau hoặc nhu cầu nhắm tới; thẻ cấu trúc nếu có (`mo-xe-bai-mau`).
 
-## Bước 1 - Chọn ba nhóm
-Chọn **ba nhóm khác nhau** hợp với nỗi đau và giọng của tổ chức. Nên có một câu chặn lướt (nhóm 1, 2, 7, 8) và một câu giữ người xem ở lại (nhóm 4, 5, 9).
+## Bước 1 - Tìm chất liệu trong chính bài
+Đọc kịch bản hoặc bài, ghi ra: điều **bất ngờ** nhất; **cái giá** cao nhất người xem đang trả; **con số, chi tiết cụ thể** nhất (có nguồn); **quan điểm** sắc nhất của diễn giả; **khoảnh khắc** dễ đồng cảm nhất. Câu mở đầu lấy chất liệu từ đây nên đúng với bài và không thổi phồng. Bài không có điều nào trong năm điều này thì báo người dùng: chỗ yếu nằm ở nội dung, nên sửa bài trước, không cố viết câu mở thật kêu.
 
-## Bước 2 - Viết
+## Bước 2 - Chọn nhóm
+Chọn **từ ba nhóm khác nhau trở lên** hợp với nỗi đau và giọng của tổ chức. Nên có một câu chặn lướt (nhóm 1, 2, 7, 8) và một câu giữ người xem ở lại (nhóm 4, 5, 9).
+
+## Bước 3 - Viết nhiều
+- Viết **6 đến 10 câu** trải trên các nhóm đã chọn: nhiều cách mở khác nhau, không phải một ý viết lại mười lần.
 - Điền bằng chi tiết **của chính bài này** (tình huống, con số có nguồn, câu nói thật của khách đã được phép dùng), không để câu dùng được cho bài nào cũng được.
-- Video: viết cả **lời nói** và **chữ trên màn 2 giây đầu**, hai cái khác chữ nhau.
+- Video: viết cả **lời nói**, **chữ trên màn 2 giây đầu** và **hình mở đầu**. Ba lớp cùng nói một lời hứa nhưng chữ trên màn khác chữ lời nói; chữ và hình phải hiểu được khi tắt tiếng.
 - Độ dài: video ngắn 8 đến 15 tiếng (khoảng 3 giây); video dài và dòng đầu bài chữ 15 đến 40 tiếng.
 
-## Bước 3 - Chấm
-Chấm từng câu theo kỹ năng `cham-cau-mo-dau`. Câu "Yếu" thì viết lại một lần rồi mới giao.
+## Bước 4 - Chấm, giữ ba
+Chấm từng câu theo kỹ năng `cham-cau-mo-dau` (qua hai cổng Đúng sự thật và Kéo trước). Giữ **ba câu** điểm cao nhất thuộc ba nhóm khác nhau; câu còn lại bỏ, không tiếc. Chưa đủ ba câu từ mức Dùng được trở lên thì viết thêm một lượt rồi mới giao.
+Với mỗi câu giữ lại, ghi câu đó **buộc phần sau** phải làm gì: câu ngược đời buộc phần sau chứng minh; câu giữa câu chuyện buộc kể tiếp chuyện đó; câu danh sách buộc đủ số điều đã hứa.
 
 ## Đầu ra
 ```
 1. [Nhóm] · điểm [số] ([Mạnh/Dùng được/Yếu])
    Lời nói: ...
    Chữ trên màn: ...
-   Hợp nhất với: [nền tảng]
+   Hợp nhất với: [nền tảng] · phần sau phải: [...]
 2. ...
 3. ...
+Đã viết [số] câu, giữ 3. Chất liệu lấy từ: [...]
 Ghi chú cho người duyệt: [câu nào chạm mức rủi ro cao, cần xác nhận gì]
 ```
 Kết thúc bằng câu hỏi: **dùng câu nào, hay sửa chỗ nào?**

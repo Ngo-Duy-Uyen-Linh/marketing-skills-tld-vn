@@ -1,6 +1,6 @@
 ---
 name: lap-ke-hoach-noi-dung
-description: Lập kế hoạch nội dung theo tuần hoặc tháng cho các kênh của tổ chức - cân giữa nội dung thu hút, nuôi dưỡng và mời mua, gắn mỗi bài với nỗi đau của khách, xu hướng đang lên và lịch khóa học, sản phẩm, ghi mức rủi ro và người cần duyệt. Dùng khi người dùng nói "lên kế hoạch nội dung", "lịch đăng tuần sau", "tháng này đăng gì", "kế hoạch nội dung cho khóa", "phân bổ bài cho các kênh".
+description: Lập kế hoạch nội dung theo tuần hoặc tháng cho các kênh của tổ chức - cân giữa bốn loại nội dung thu hút, nuôi dưỡng, mời mua và chăm sóc khách đã mua, gắn mỗi bài với nỗi đau của khách, xu hướng đang lên và lịch khóa học, sản phẩm, ghi mức rủi ro và người cần duyệt. Dùng khi người dùng nói "lên kế hoạch nội dung", "lịch đăng tuần sau", "tháng này đăng gì", "kế hoạch nội dung cho khóa", "phân bổ bài cho các kênh".
 ---
 
 <!-- BẢN CHÉP: bản gốc ở marketing-skills-tld-vn/skills/lap-ke-hoach-noi-dung/SKILL.md. Không sửa ở đây; sửa bản gốc rồi chạy: node dong-bo.cjs -->
@@ -21,17 +21,24 @@ description: Lập kế hoạch nội dung theo tuần hoặc tháng cho các k�
 - Bản tin xu hướng gần nhất (`nghien-cuu-xu-huong`), chủ đề nỗi đau từ bình luận, bài học gần nhất (`doc-so-lieu-rut-bai-hoc`).
 - Lịch khóa học, sự kiện, ưu đãi đang có.
 
-## Bước 1 - Chia ba loại nội dung
+## Bước 1 - Chia bốn loại nội dung
 | Loại | Để làm gì | Tỷ lệ mặc định |
 |---|---|---|
-| Thu hút | Người lạ dừng lại, chia sẻ, theo dõi | 50% |
-| Nuôi dưỡng | Người đã biết tin hơn: câu chuyện, giải đáp, giá trị dùng ngay | 30% |
+| Thu hút | Người lạ dừng lại, chia sẻ, theo dõi | 40% |
+| Nuôi dưỡng | Người đã biết tin hơn: câu chuyện, giải đáp, giá trị dùng ngay | 25% |
 | Mời mua, mời tham gia | Lời mời rõ ràng tới khóa, sản phẩm, sự kiện | 20% |
-Đọc tỷ lệ từ tham số của hệ thống khi có; chưa có thì dùng mặc định 50/30/20 ở `tai-lieu-to-chuc/quy-tac-noi-dung.md`. Gần ngày khai giảng hay sự kiện thì tăng phần mời, nhưng không quá một nửa số bài.
+| Chăm sóc | Khách đã mua, học viên dùng hiệu quả hơn và ở lại: mẹo đạt kết quả cao, cách gỡ nút thắt và khiếu nại hay gặp, nhắc lịch, mừng tiến bộ | 15% |
+Đọc tỷ lệ từ tham số của hệ thống khi có; chưa có thì dùng mặc định 40/25/20/15 ở `tai-lieu-to-chuc/quy-tac-noi-dung.md`. Gần ngày khai giảng hay sự kiện thì tăng phần mời, nhưng không quá một nửa số bài. Kênh chỉ dành cho khách đã mua (nhóm học viên, nhóm khách hàng) thì không theo tỷ lệ chung: chăm sóc là chính, chỉ mời khi có khóa hay sản phẩm nối tiếp hợp với họ.
+
+**Bài chăm sóc lấy ý từ đâu:** câu hỏi, khiếu nại, chỗ khách hay vướng gom từ bình luận, nhóm, hộp thoại, đánh giá (chỉ dùng số tổng hợp, không nêu tên khách); Ví dụ sửa; tài liệu khóa học, hướng dẫn dùng sản phẩm. Bài về khiếu nại hay gặp nói cách gỡ chung; khiếu nại của một người cụ thể không đưa lên bài mà chuyển người phụ trách. Bài chăm sóc nhắc khiếu nại là mức cao.
 
 ## Bước 2 - Gắn từng bài với một lý do
-Mỗi bài có đủ: **một nỗi đau hoặc nhu cầu** của khách; **một nguồn ý** (xu hướng, thẻ cấu trúc, câu hỏi khách hay hỏi, bài cũ hiệu quả cần làm lại); **một hành động** mong người xem làm.
-Bài làm lại từ bài cũ hiệu quả: đổi câu mở đầu và cách kể, không đăng lại y nguyên.
+Mỗi bài có đủ: **một nỗi đau hoặc nhu cầu** của khách; **một nguồn ý** (xu hướng, thẻ cấu trúc, câu hỏi khách hay hỏi, bài cũ hiệu quả cần làm lại); **một hành động** mong người xem làm, hợp với loại bài:
+- Thu hút: lưu bài, bình luận, chia sẻ, theo dõi.
+- Nuôi dưỡng: nhận tài liệu, vào nhóm, nhắn hỏi.
+- Mời: đăng ký, tham gia, mua; kèm một điều giảm lo nếu có thật trong tài liệu tổ chức (buổi học thử, chính sách đổi trả).
+- Chăm sóc: làm thử rồi kể lại kết quả, hỏi khi vướng, đánh giá; giới thiệu người quen chỉ khi khách đã hài lòng.
+Bài làm lại từ bài cũ hiệu quả: theo `lam-moi-bai-hieu-qua` (đổi câu mở đầu hoặc cách kể, không đăng lại y nguyên).
 
 ## Bước 3 - Xếp lịch
 - Theo giờ được đăng và khung giờ khách của tổ chức hay xem (từ số liệu; chưa có thì ghi "chưa có số liệu, đề xuất thử").
@@ -45,7 +52,7 @@ Mỗi bài ghi mức rủi ro dự kiến. Đếm số bài mức vừa và mứ
 ## Đầu ra
 ```
 KẾ HOẠCH NỘI DUNG: [từ ngày] đến [ngày] · mục tiêu: ...
-Tỷ lệ: thu hút [số] · nuôi dưỡng [số] · mời [số] · khối lượng duyệt: [số] bài mức vừa, [số] bài mức cao
+Tỷ lệ: thu hút [số] · nuôi dưỡng [số] · mời [số] · chăm sóc [số] · khối lượng duyệt: [số] bài mức vừa, [số] bài mức cao
 
 | Ngày, giờ | Kênh | Loại | Chủ đề | Nỗi đau | Nguồn ý | Định dạng | Hành động | Mức rủi ro | Kỹ năng viết |
 |---|---|---|---|---|---|---|---|---|---|

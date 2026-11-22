@@ -26,6 +26,16 @@ Học thêm ở bản 0.4.0 (cũng chỉ đọc README và SKILL.md, chưa kiể
 | github.com/1160208849wfl/changkong-live | MIT | Ba hướng thuyết phục khác nhau, câu cứu khi vắng tương tác, học từ số liệu sau buổi | `kich-ban-livestream` |
 | github.com/sophie-nguyenthuthuy/livestream-commerce-vn | Không ghi giấy phép (chỉ học ý) | Đo livestream theo từng phút, kịch bản theo giọng vùng miền | `kich-ban-livestream` |
 
+Học thêm ở bản 0.6.0 (22/11/2026; tìm qua trang tra cứu skills.sh, kéo kho về chỉ để đọc chữ, không chạy kịch bản nào, không chép):
+| Kho tham khảo | Giấy phép | Học điều gì | Dùng ở kỹ năng |
+|---|---|---|---|
+| github.com/social-media-skills/skills (commit `f28cef2`): `hook-writer`, `viral-reverse-engineering`, `trend-jacking`, `voice-builder`, `crisis-and-moderation`, `content-recycling` | MIT | Hai cổng đúng sự thật và kéo, tìm chất liệu câu mở trong chính bài, viết nhiều giữ ít, video tắt tiếng vẫn hiểu; phép thử bỏ đi, lý do chia sẻ, kiểm lặp lại được; ba cổng hợp, an toàn, còn lên; giọng văn dựng từ bằng chứng, điều không bao giờ làm, viết thử; sự cố: xác minh, phân mức, lên tiếng sớm, giữ chỉ trích, tạm dừng lịch đăng; làm mới bài theo thời gian, đổi một yếu tố. Các con số thống kê của kho này chưa xác minh nên không dùng | `cham-cau-mo-dau`, `viet-cau-mo-dau`, `mo-xe-bai-mau`, `nghien-cuu-xu-huong`, `dung-giong-van-thuong-hieu`, `xu-ly-su-co-truyen-thong`, `lam-moi-bai-hieu-qua` |
+| github.com/samber/cc-skills (commit `50a3383`): `copywriting-hooks`, `copywriting-cta` | MIT | Ít nhất ba cách mở khác nhau; câu mở buộc phần sau phải làm gì; một hành động chính theo giai đoạn của khách, chỉ dùng đòn tâm lý khi có thật | `viet-cau-mo-dau`, `viet-bai-dang-mang-xa-hoi`, `viet-kich-ban-video-ngan` |
+| github.com/miqdadbadjuber/anti-slop (commit `7f6a03d`): `antislop-copywriting` | MIT | Ngập ngừng giả, báo trước thay vì nói, kết luận tích cực chung chung, lời khen không tên; giữ dấu hiệu người thật viết; không bịa chi tiết khi viết lại | `bo-giong-van-may` |
+| github.com/RefoundAI/lenny-skills (commit `13598cc`): `positioning`, `launch-planning` | MIT | Đối thủ lớn nhất thường là cách khách đang tự xoay xở; ghi điều đợt này không làm | `doi-thu-va-dinh-vi`, `ke-hoach-chien-dich` |
+
+Loại bài **Chăm sóc** (mẹo đạt kết quả cao, gỡ nút thắt và khiếu nại hay gặp cho khách đã mua) do Thế Là Được đặt thêm ở bản 0.6.0.
+
 Phép so hai tỷ lệ ở `thu-nhieu-phien-ban` là phương pháp thống kê phổ biến, dùng cùng ngưỡng với chiến dịch chăm sóc khách hàng của hệ thống Thế Là Được.
 
 ## Khác với các kho tham khảo

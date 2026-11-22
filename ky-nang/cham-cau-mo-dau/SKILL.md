@@ -1,6 +1,6 @@
 ---
 name: cham-cau-mo-dau
-description: Chấm câu mở đầu của video hoặc bài đăng trước khi đăng theo năm tiêu chí, lấy điểm yếu nhất làm trọng tâm, gợi ý sửa. Dùng khi người dùng nói "chấm câu này", "câu mở đầu này ổn không", "câu nào mạnh hơn", hoặc dán một hay nhiều câu mở đầu.
+description: Chấm câu mở đầu của video hoặc bài đăng trước khi đăng qua hai cổng Đúng sự thật và Kéo, chấm năm tiêu chí, lấy điểm yếu nhất làm trọng tâm, gợi ý sửa. Dùng khi người dùng nói "chấm câu này", "câu mở đầu này ổn không", "câu nào mạnh hơn", hoặc dán một hay nhiều câu mở đầu.
 ---
 
 <!-- BẢN CHÉP: bản gốc ở marketing-skills-tld-vn/skills/cham-cau-mo-dau/SKILL.md. Không sửa ở đây; sửa bản gốc rồi chạy: node dong-bo.cjs -->
@@ -12,6 +12,12 @@ description: Chấm câu mở đầu của video hoặc bài đăng trước khi
 - Điểm chỉ để **chặn câu dở**, không phải lời hứa câu điểm cao sẽ nhiều lượt xem. Không nói "câu này chắc chắn lên".
 - Câu vi phạm quy tắc nội dung của tổ chức (từ cấm, hứa kết quả, khẩn cấp giả, con số không nguồn) thì **không chấm**, ghi lý do và trả về để viết lại.
 - Tiếng Việt đầy đủ, không viết tắt.
+
+## Hai cổng, trượt cổng nào thì loại
+Qua hai cổng rồi mới chấm điểm. Trượt một cổng thì loại dù câu nghe hay, ghi lý do:
+- **Đúng sự thật**: phần sau của bài trả được điều câu mở đầu hứa. Câu hứa quá phần bài có thì người xem bấm vào rồi bỏ đi và mất lòng tin. Sửa câu, không sửa sự thật.
+- **Kéo**: đọc riêng câu này như một người lạ, có muốn nghe câu thứ hai không. Không muốn thì chưa phải câu mở đầu.
+Video: nhiều người xem không bật tiếng, nên chữ trên màn và hình trong 2 giây đầu phải tự hiểu được khi tắt tiếng. Ghi "tắt tiếng: được" hoặc "tắt tiếng: không" (không tính điểm, nhưng "không" thì gợi ý sửa chữ trên màn).
 
 ## Năm tiêu chí, mỗi tiêu chí 0 đến 100
 Mỗi tiêu chí bắt đầu từ điểm nền, cộng trừ theo dấu hiệu, giới hạn trong 0 đến 100.
@@ -44,7 +50,7 @@ Mỗi tiêu chí bắt đầu từ điểm nền, cộng trừ theo dấu hiệu
 
 ## Điểm cuối
 **Điểm = 0,6 × trung bình năm tiêu chí + 0,4 × tiêu chí thấp nhất**, làm tròn.
-Một câu có bốn điểm mạnh và một điểm chết vẫn rò người xem ở điểm chết; lấy trung bình sẽ che mất chỗ đó.
+Lấy tiêu chí thấp nhất làm trọng tâm vì một câu có bốn điểm mạnh và một điểm chết vẫn rò người xem ở điểm chết; lấy trung bình sẽ che mất chỗ đó.
 
 | Điểm | Mức | Làm gì |
 |---|---|---|
@@ -53,16 +59,21 @@ Một câu có bốn điểm mạnh và một điểm chết vẫn rò người 
 | Dưới 55 | Yếu | Viết lại trước khi giao |
 Dấu hiệu và ngưỡng là điểm khởi đầu cho tiếng Việt, chưa đo trên số liệu thật; có đủ số liệu (`doc-so-lieu-rut-bai-hoc`) thì đề xuất chỉnh qua Ví dụ sửa.
 
+## Đầu vào
+Một hoặc nhiều câu mở đầu; tiêu đề, ảnh bìa; nền tảng, định dạng; video thì thêm chữ trên màn 2 giây đầu; nội dung phía sau (để kiểm cổng Đúng sự thật).
+
 ## Cách làm
-Đầu vào: một hay nhiều câu mở đầu; tiêu đề, ảnh bìa; nền tảng, định dạng.
 1. Kiểm quy tắc nội dung trước. Vi phạm thì dừng, ghi lý do.
-2. Chấm năm tiêu chí, ghi dấu hiệu đã thấy để người duyệt kiểm lại; tính điểm cuối và mức.
-3. Ghi thêm (không tính điểm): có xác nhận tiêu đề, mở câu hỏi, cho thấy phần thưởng không.
-4. Với câu Yếu hoặc Dùng được: chỉ ra tiêu chí thấp nhất và viết **một** câu sửa nhắm đúng tiêu chí đó.
+2. Qua hai cổng. Trượt thì dừng, ghi lý do và gợi ý hướng viết lại.
+3. Chấm năm tiêu chí, ghi dấu hiệu đã thấy cho từng tiêu chí để người duyệt kiểm lại được.
+4. Tính điểm cuối và mức.
+5. Kiểm thêm ba việc (không tính điểm, chỉ ghi): có xác nhận tiêu đề không; có mở câu hỏi không; có cho thấy phần thưởng không.
+6. Với câu Yếu hoặc Dùng được: chỉ ra tiêu chí thấp nhất và viết **một** câu sửa nhắm đúng tiêu chí đó.
 
 ## Đầu ra
 ```
 [câu]
+Hai cổng: đúng sự thật [đạt/trượt] · kéo [đạt/trượt] · tắt tiếng [được/không]
 Cụ thể [số] · Nói thẳng [số] · Cái giá [số] · Tò mò [số] · Độ dài [số]
 Điểm [số] · [Mạnh/Dùng được/Yếu] · yếu nhất: [tiêu chí] vì [dấu hiệu]
 Ba việc: xác nhận tiêu đề [có/không] · mở câu hỏi [có/không] · cho thấy phần thưởng [có/không]
