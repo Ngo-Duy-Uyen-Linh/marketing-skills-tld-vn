@@ -34,7 +34,7 @@ Học thêm ở bản 0.6.0 (22/11/2026; tìm qua trang tra cứu skills.sh, ké
 | github.com/miqdadbadjuber/anti-slop (commit `7f6a03d`): `antislop-copywriting` | MIT | Ngập ngừng giả, báo trước thay vì nói, kết luận tích cực chung chung, lời khen không tên; giữ dấu hiệu người thật viết; không bịa chi tiết khi viết lại | `bo-giong-van-may` |
 | github.com/RefoundAI/lenny-skills (commit `13598cc`): `positioning`, `launch-planning` | MIT | Đối thủ lớn nhất thường là cách khách đang tự xoay xở; ghi điều đợt này không làm | `doi-thu-va-dinh-vi`, `ke-hoach-chien-dich` |
 
-Loại bài **Chăm sóc** (mẹo đạt kết quả cao, gỡ nút thắt và khiếu nại hay gặp cho khách đã mua) do Thế Là Được đặt thêm ở bản 0.6.0; bản 0.6.1 đặt tỷ lệ mặc định thu hút / nuôi dưỡng / mời / chăm sóc là 40/25/15/20 theo quyết định của tổ chức.
+Loại bài **Chăm sóc** (mẹo đạt kết quả cao, gỡ nút thắt và khiếu nại hay gặp cho khách đã mua) do Thế Là Được đặt thêm ở bản 0.6.0; bản 0.6.2 thêm mục Bản đồ kỹ năng ở vai-tro.md (dựng từ đồ thị quan hệ giữa các kỹ năng bằng Graphify) để nhân sự AI chọn đúng kỹ năng; bản 0.6.1 đặt tỷ lệ mặc định thu hút / nuôi dưỡng / mời / chăm sóc là 40/25/15/20 theo quyết định của tổ chức.
 
 Phép so hai tỷ lệ ở `thu-nhieu-phien-ban` là phương pháp thống kê phổ biến, dùng cùng ngưỡng với chiến dịch chăm sóc khách hàng của hệ thống Thế Là Được.
 

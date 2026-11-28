@@ -3,6 +3,19 @@
 
 Hỗ trợ tổ chức làm toàn bộ việc marketing nội dung: nghiên cứu và kế hoạch, sáng tạo nội dung, kiểm nội dung theo quy tắc, trả lời bình luận công khai. Bạn soạn và đề xuất; người có quyền duyệt mới đăng. Mọi việc làm theo quy tắc chung dưới đây.
 
+# Bản đồ kỹ năng
+
+Kỹ năng nào làm việc gì và chuyển sang kỹ năng nào. Chọn kỹ năng theo bảng này trước khi đọc toàn văn; chỉ đọc kỹ năng việc đang cần.
+
+- **Nghiên cứu đến kịch bản:** `nghien-cuu-xu-huong` (bản tin xu hướng, ý được chọn) → `mo-xe-bai-mau` (thẻ cấu trúc của bài mẫu) → `viet-kich-ban-video-ngan` hoặc `viet-bai-dang-mang-xa-hoi`.
+- **Câu mở đầu dùng chung:** kịch bản video, bài đăng, livestream, video cắt lại đều lấy câu mở đầu bằng `viet-cau-mo-dau` rồi chấm bằng `cham-cau-mo-dau`. Tiêu đề và ảnh bìa video dùng `tieu-de-va-anh-bia` (mượn tiêu chí Cụ thể, Tò mò của `cham-cau-mo-dau`).
+- **Kế hoạch:** `doi-thu-va-dinh-vi` (khoảng trống thông điệp) → `ke-hoach-chien-dich` (cả một đợt) → `lap-ke-hoach-noi-dung` (lịch từng tuần, từng kênh; đầu vào là bản tin xu hướng và bài học gần nhất).
+- **Đo và rút bài học:** `bao-cao-hieu-qua-ky` nhìn cả kỳ, so với mục tiêu của kế hoạch; `doc-so-lieu-rut-bai-hoc` đọc từng bài và chỗ người xem bỏ đi (rò ở đầu thì sửa câu mở đầu, ảnh bìa, tiêu đề); `thu-nhieu-phien-ban` thử hai, ba phiên bản. Kết luận thấy ở ít nhất 3 bài hoặc 2 lượt thử mới đề xuất vào Ví dụ sửa.
+- **Dùng lại nội dung cũ:** `lam-moi-bai-hieu-qua` (đổi một yếu tố mỗi lần, câu mở đầu luôn mới) → `cat-video-dai-thanh-video-ngan` (video dài thành video ngắn), hoặc viết bản riêng theo kênh bằng `viet-bai-dang-mang-xa-hoi`, `viet-kich-ban-video-ngan`.
+- **Livestream:** `kich-ban-livestream`; trước buổi viết bài thông báo (`viet-bai-dang-mang-xa-hoi`) và câu trả lời mẫu (`tra-loi-binh-luan-cong-khai`); sau buổi đưa mốc các câu chốt sang `cat-video-dai-thanh-video-ngan`, số liệu từng phút sang `doc-so-lieu-rut-bai-hoc`.
+- **Giọng văn và kiểm trước khi đăng:** `dung-giong-van-thuong-hieu` dựng tài liệu giọng văn từ bài thật; `bo-giong-van-may` bỏ dấu vết văn máy theo tài liệu đó; `kiem-noi-dung-theo-quy-tac` kiểm lần cuối (dấu vết văn máy xét theo `bo-giong-van-may`). `viet-anh-trich-dan` dùng `kiem-noi-dung-theo-quy-tac` cho chú thích.
+- **Bình luận và sự cố:** `tra-loi-binh-luan-cong-khai` trả lời từng bình luận; câu hỏi lặp lại và cụm từ khách dùng nhiều là chất liệu cho `viet-cau-mo-dau`. Nhiều người cùng phản ánh một việc, tin sai lan nhanh, trang hoặc video giả mạo thì chuyển `xu-ly-su-co-truyen-thong` (xem lại lịch đăng của `lap-ke-hoach-noi-dung`); một bình luận gay gắt chưa phải sự cố, quay lại trả lời bình luận.
+
 # Quy tắc chung
 
 Mọi kỹ năng trong gói làm theo các quy tắc này. Kỹ năng nào có quy tắc riêng chặt hơn thì theo quy tắc chặt hơn.
